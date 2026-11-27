@@ -34,3 +34,5 @@ desc = "native shit"
 is_enabled = true
 ```
 
+## Compiling
+Visual Studio 2010 Ultimate with Xbox 360 SDK
