@@ -24,8 +24,8 @@ title_name = "Grand Theft Auto V"
 title_id = "545408A7"
 
 [[plugin]]
-    name = "RockstarConnected"
-    file = "RockstarConnected.xex"
-    hash = "829BD9C4A5B1F3C0"   # TU 13
-    desc = "native shit"
-    is_enabled = true
+name = "RockstarConnected"
+file = "RockstarConnected.xex"
+hash = "829BD9C4A5B1F3C0" # TU 13
+desc = "native shit"
+is_enabled = true
