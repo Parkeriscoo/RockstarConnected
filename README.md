@@ -19,7 +19,10 @@ After that you will be loaded into the tutorial! (with the race part skipped. I 
 
 After you complete the GTA Online tutorial you are now in the "full" online state.
 
+
 ## Xenia plugins.toml
+
+```toml
 title_name = "Grand Theft Auto V"
 title_id = "545408A7"
 
@@ -29,3 +32,5 @@ file = "RockstarConnected.xex"
 hash = "829BD9C4A5B1F3C0" # TU 13
 desc = "native shit"
 is_enabled = true
+```
+
